@@ -1,11 +1,11 @@
-# flutter_correios
+# Projeto Flutter Correios 
 
-Fazer o rastreio de objetos enviados pelos CORREIOS e consultar CEP.
+Projeto com o objetivo de fazer o rastreio de objetos enviados pelos CORREIOS e consultar CEP.
 Este pacote utiliza a API [POSTMON](https://postmon.com.br/)
 
 
 
-## Usage
+## Linguagem DART no Flutter
 
 ```dart
   dependencies:
